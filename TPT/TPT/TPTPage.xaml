@@ -2,7 +2,10 @@
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              xmlns:local="clr-namespace:TPT" 
-             x:Class="TPT.TPTPage">
+             x:Class="TPT.TPTPage"
+            BarBackgroundColor="#143058"
+            BarTextColor="White">
+    
     <TabbedPage.Children>
       <local:Page1 />
       <local:Page2 />

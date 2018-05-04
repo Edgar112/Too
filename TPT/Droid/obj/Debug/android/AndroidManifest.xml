@@ -5,7 +5,8 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="TPT" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="TPT.Droid" android:theme="@style/MyTheme" android:name="md53bee5006b73d849e7bd3f05faf9b2809.MainActivity">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="TPT.Droid" android:theme="@style/MyTheme" android:name="md53bee5006b73d849e7bd3f05faf9b2809.MainActivity" />
+    <activity android:icon="@drawable/icon" android:noHistory="true" android:theme="@style/Theme.Splash" android:name="md53bee5006b73d849e7bd3f05faf9b2809.SplashActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

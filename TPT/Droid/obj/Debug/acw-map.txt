@@ -2,6 +2,10 @@ TPT.Droid.MainActivity, TPT.Droid;md53bee5006b73d849e7bd3f05faf9b2809.MainActivi
 TPT.Droid.MainActivity, TPT.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53bee5006b73d849e7bd3f05faf9b2809.MainActivity
 TPT.Droid.MainActivity;md53bee5006b73d849e7bd3f05faf9b2809.MainActivity
 tpt.droid.MainActivity;md53bee5006b73d849e7bd3f05faf9b2809.MainActivity
+TPT.Droid.SplashActivity, TPT.Droid;md53bee5006b73d849e7bd3f05faf9b2809.SplashActivity
+TPT.Droid.SplashActivity, TPT.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53bee5006b73d849e7bd3f05faf9b2809.SplashActivity
+TPT.Droid.SplashActivity;md53bee5006b73d849e7bd3f05faf9b2809.SplashActivity
+tpt.droid.SplashActivity;md53bee5006b73d849e7bd3f05faf9b2809.SplashActivity
 Android.Support.V4.Widget.SearchViewCompat/IOnCloseListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat+IOnCloseListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
 Android.Support.V4.Widget.SearchViewCompat.IOnCloseListenerImplementor;mono.android.support.v4.widget.SearchViewCompat_OnCloseListenerImplementor
