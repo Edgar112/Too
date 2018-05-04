@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{041CA933-39CA-4F8F-8C63-9F3430146590}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TPT/Page3.xaml.cs">
+    <Files>
+      <File FileName="Droid/Resources/values/styles.xml" Line="2" Column="1" />
+      <File FileName="TPT/TPTPage.xaml" Line="5" Column="1" />
+      <File FileName="TPT/TPTPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="TPT/Page1.xaml" Line="6" Column="1" />
+      <File FileName="TPT/Page1.xaml.cs" Line="1" Column="1" />
+      <File FileName="TPT/Page2.xaml" Line="6" Column="1" />
+      <File FileName="TPT/Page2.xaml.cs" Line="1" Column="1" />
+      <File FileName="TPT/Page3.cs" Line="1" Column="1" />
+      <File FileName="TPT/Page3.xaml" Line="6" Column="1" />
+      <File FileName="TPT/Page3.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TPT.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.ItemProperties.TPT.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C590DCA4-7266-4852-A6D7-38E3D7792627">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TPT.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
