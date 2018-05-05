@@ -18,3 +18,5 @@
 /Users/nopr0gress/Documents/GitHub/Too/TPT/TPT/obj/Debug/TPT.Page2.xaml.g.cs
 /Users/nopr0gress/Documents/GitHub/Too/TPT/TPT/obj/Debug/TPT.Page3.xaml.g.cs
 /Users/nopr0gress/Documents/GitHub/Too/TPT/TPT/obj/Debug/TPT.csprojResolveAssemblyReference.cache
+/Users/nopr0gress/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/nopr0gress/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Maps.xml

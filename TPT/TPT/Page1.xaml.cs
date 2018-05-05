@@ -10,6 +10,7 @@ namespace TPT
         public Page1()
         {
             InitializeComponent();
+            var image = new Image { Source = "map.jpg" };
         }
     }
 }

@@ -2,7 +2,8 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              x:Class="TPT.Page1"
-             Title="Page1">
+             Title="Page1"
+             BackgroundColor="Aqua" >
     <ContentPage.Padding>
         <OnPlatform x:TypeArguments="Thickness">
             <On Platform="iOS" Value="0, 20, 0, 0" />
@@ -12,165 +13,53 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <Style TargetType="BoxView">
-                <Setter Property="Color" Value="Black" />
+                <Setter Property="Color" Value="#143058" />
             </Style>
         </ResourceDictionary>
     </ContentPage.Resources>
 
     <ScrollView Margin="15">
+        
         <StackLayout>
+            
             <AbsoluteLayout>
-                <BoxView AbsoluteLayout.LayoutBounds="0, 10, 300, 5" />
-                <BoxView AbsoluteLayout.LayoutBounds="0, 20, 200, 5" />
-                <BoxView AbsoluteLayout.LayoutBounds="10, 0, 5, 65" />
-                <BoxView AbsoluteLayout.LayoutBounds="20, 0, 5, 65" />
-                <Label Text="Stylish Header"
-                       FontSize="24"
-                       AbsoluteLayout.LayoutBounds="30, 25, AutoSize, AutoSize"/>
+                <BoxView AbsoluteLayout.LayoutBounds="0, 64, 340, 5" />
+                <Label Text="Tallinna Polütehnikum" FontSize="36"
+                       AbsoluteLayout.LayoutBounds="3, 25, AutoSize, AutoSize"/>
             </AbsoluteLayout>
+            
+            <Label></Label>
+            <Label></Label>
 
             <Label>
                 <Label.FormattedText>
                     <FormattedString>
-                        <Span Text="The " />
-                        <Span Text="Label"
+                        <Span Text="Haridus- ja Teadusministeeriumi hallatav riigi kutseõppeasutus." />
+                        <Span Text=" Registrikood: 70003974"
                               FontAttributes="Italic" />
-                        <Span Text=" and four " />
-                        <Span Text="Boxiew"
-                              FontAttributes="Italic" />
-                        <Span Text=" elements shown above are children of an " />
-                        <Span Text="AbsoluteLayout"
-                              FontAttributes="Italic" />
-                        <Span Text=". This allows the text and its decorations to be precisely sized and positioned." />
                     </FormattedString>
                 </Label.FormattedText>
             </Label>
 
             <StackLayout HorizontalOptions="Center">
-                <Label Text="Underlined Text"
+                <Label Text="Kontakt"
                        FontSize="24" />
                 <BoxView HeightRequest="2" />
             </StackLayout>
 
-            <Label>
-                <Label.FormattedText>
-                    <FormattedString>
-                        <Span Text="The underlined " />
-                        <Span Text="Label"
-                              FontAttributes="Italic" />
-                        <Span Text=" above shares a " />
-                        <Span Text="StackLayout"
-                              FontAttributes="Italic" />
-                        <Span Text=" with a " />
-                        <Span Text="BoxView"
-                              FontAttributes="Italic" />
-                        <Span Text=", whose width is governed by the " />
-                        <Span Text="Label"
-                              FontAttributes="Italic" />
-                        <Span Text=". Unfortunately, you can't use this technique to underline a single word in a paragraph." />
-                    </FormattedString>
-                </Label.FormattedText>
+            <Label FontSize="21">
+            Aadress: Pärnu mnt. 57, Tallinn 10135.
+Üldtelefon: 610 3601.
             </Label>
-
+            
+            <Button HorizontalOptions="Start" Text="E-post: info@tptlive.ee" FontSize="21"/>
+            <Button HorizontalOptions="Start" Text="Koduleht: www.tptlive.ee" FontSize="21"/>
+            <Button HorizontalOptions="Start" Text="Facebook: www.facebook.com/polütehnikum" FontSize="21"/>
+            
             <BoxView HeightRequest="3" />
 
-            <Label>
-                <Label.FormattedText>
-                    <FormattedString>
-                        <Span Text="You can also use a " />
-                        <Span Text="BoxView"
-                                  FontAttributes="Italic" />
-                        <Span Text=" for a horizontal line. Specify a height but let the width fill the horizontal dimensions of the container." />
-                    </FormattedString>
-                </Label.FormattedText>
-            </Label>
-
-            <StackLayout Orientation="Horizontal">
-                <BoxView WidthRequest="4"
-                         Margin="0, 0, 10, 0" />
-                <Label>
-                    <Label.FormattedText>
-                        <FormattedString>
-                            <Span Text="Similarly, you can use a " />
-                            <Span Text="BoxView"
-                                  FontAttributes="Italic" />
-                            <Span Text=" to mark off a paragraph of text, for example, to indicate a quotation. In this case, the " />
-                            <Span Text="Label"
-                                  FontAttributes="Italic" />
-                            <Span Text=" and " />
-                            <Span Text="BoxView"
-                                  FontAttributes="Italic" />
-                            <Span Text=" also share a " />
-                            <Span Text="StackLayout"
-                                  FontAttributes="Italic" />
-                            <Span Text=", but with a horizontal orientation." />
-                        </FormattedString>
-                    </Label.FormattedText>
-                </Label>
-            </StackLayout>
-
-
-            <StackLayout Orientation="Horizontal">
-                <BoxView WidthRequest="4"
-                         Margin="0, 0, 10, 0" />
-                <Label>
-                    <Label.FormattedText>
-                        <FormattedString>
-                            <Span Text="Similarly, you can use a " />
-                            <Span Text="BoxView"
-                                  FontAttributes="Italic" />
-                            <Span Text=" to mark off a paragraph of text, for example, to indicate a quotation. In this case, the " />
-                            <Span Text="Label"
-                                  FontAttributes="Italic" />
-                            <Span Text=" and " />
-                            <Span Text="BoxView"
-                                  FontAttributes="Italic" />
-                            <Span Text=" also share a " />
-                            <Span Text="StackLayout"
-                                  FontAttributes="Italic" />
-                            <Span Text=", but with a horizontal orientation." />
-                        </FormattedString>
-                    </Label.FormattedText>
-                </Label>
-            </StackLayout>
-
-
-            <StackLayout Orientation="Horizontal">
-                <BoxView WidthRequest="4"
-                         Margin="0, 0, 10, 0" />
-                <Label>
-                    <Label.FormattedText>
-                        <FormattedString>
-                            <Span Text="Similarly, you can use a " />
-                            <Span Text="BoxView"
-                                  FontAttributes="Italic" />
-                            <Span Text=" to mark off a paragraph of text, for example, to indicate a quotation. In this case, the " />
-                            <Span Text="Label"
-                                  FontAttributes="Italic" />
-                            <Span Text=" and " />
-                            <Span Text="BoxView"
-                                  FontAttributes="Italic" />
-                            <Span Text=" also share a " />
-                            <Span Text="StackLayout"
-                                  FontAttributes="Italic" />
-                            <Span Text=", but with a horizontal orientation." />
-                        </FormattedString>
-                    </Label.FormattedText>
-                </Label>
-            </StackLayout>
-
-            <Label>
-                <Label.FormattedText>
-                    <FormattedString>
-                        <Span Text="What can you use " />
-                        <Span Text="BoxView"
-                                FontAttributes="Italic" />
-                        <Span Text=" for?" />
-                    </FormattedString>
-                </Label.FormattedText>
-            </Label>
+           
+            
         </StackLayout>
     </ScrollView>
 </ContentPage>
-
-

@@ -24,6 +24,10 @@
                                 <rect key="frame" x="92" y="356" width="190" height="99"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES"/>
                             </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="396" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" image="1200px-EU-EE-TLN-Kesklinn-Tallinna_Polütehnikum.jpg" alpha="0.4">
+                                <rect key="frame" x="-379" y="0.0" width="1553" height="812"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" colorSpace="calibratedRGB" red="0" green="1" blue="1" alpha="1"/>
                     </view>
@@ -35,5 +39,6 @@
     </scenes>
     <resources>
         <image name="tpt_logo2.png" width="147" height="80"/>
+        <image name="1200px-EU-EE-TLN-Kesklinn-Tallinna_Polütehnikum.jpg" width="1200" height="900"/>
     </resources>
 </document>

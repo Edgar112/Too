@@ -116,6 +116,7 @@
     <None Include="Info.plist" />
     <None Include="Entitlements.plist" />
     <None Include="packages.config" />
+    <None Include="Resources\map.png" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
@@ -123,6 +124,7 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\tpt_logo2.png" />
+    <BundleResource Include="Resources\1200px-EU-EE-TLN-Kesklinn-Tallinna_Polütehnikum.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\packages\Xamarin.Forms.2.5.1.527436\build\netstandard1.0\Xamarin.Forms.targets" Condition="Exists('..\packages\Xamarin.Forms.2.5.1.527436\build\netstandard1.0\Xamarin.Forms.targets')" />
