@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{041CA933-39CA-4F8F-8C63-9F3430146590}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TPT/TPTPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TPT/Page1.xaml">
     <Files>
-      <File FileName="iOS/LaunchScreen.storyboard" />
-      <File FileName="TPT/TPTPage.xaml.cs" Line="1" Column="1" />
       <File FileName="TPT/TPTPage.xaml" Line="5" Column="35" />
+      <File FileName="TPT/Page1.xaml" Line="16" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

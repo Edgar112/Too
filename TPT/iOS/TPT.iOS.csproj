@@ -104,6 +104,7 @@
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
     <ImageAsset Include="Assets.xcassets\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\tpt_logo2.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
