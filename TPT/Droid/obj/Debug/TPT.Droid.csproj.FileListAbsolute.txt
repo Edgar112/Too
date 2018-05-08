@@ -49,6 +49,7 @@
 /Users/nopr0gress/Documents/GitHub/Too/TPT/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
 /Users/nopr0gress/Documents/GitHub/Too/TPT/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
 /Users/nopr0gress/Documents/GitHub/Too/TPT/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/nopr0gress/Documents/GitHub/Too/TPT/Droid/obj/Debug/res/drawable/map.png
 /Users/nopr0gress/Documents/GitHub/Too/TPT/Droid/bin/Debug/Mono.Android.pdb
 /Users/nopr0gress/Documents/GitHub/Too/TPT/Droid/obj/Debug/linksrc/TPT.Droid.pdb
 /Users/nopr0gress/Documents/GitHub/Too/TPT/Droid/obj/Debug/linksrc/Mono.Android.pdb

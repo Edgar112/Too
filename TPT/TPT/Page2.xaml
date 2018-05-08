@@ -3,7 +3,39 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              x:Class="TPT.Page2"
              Title="Page2">
-    <Label Text="Page2" VerticalOptions="Center" HorizontalOptions="Center" />
-    <ContentPage.Content>
-    </ContentPage.Content>
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="0, 20, 0, 0" />
+        </OnPlatform>
+    </ContentPage.Padding>
+
+    <ScrollView Margin="15">
+        <StackLayout>
+            <AbsoluteLayout>
+                <Label Text="Tallinna Polütehnikum" FontSize="36"
+                       AbsoluteLayout.LayoutBounds="3, 25, AutoSize, AutoSize"/>
+            </AbsoluteLayout>
+            
+            <Label></Label>
+            <Label></Label>
+
+            <Button HorizontalOptions="Center" Text="Siseveeb" Clicked="Handle_Clicked" FontSize="21"/>
+            <Button HorizontalOptions="Center" Text="Tunniplaan" Clicked="Handle_Clicked_1" FontSize="21"/>
+            <Button HorizontalOptions="Center" Text="Õppetöö graafik 2017/2018.õ.-a." Clicked="Handle_Clicked_3" FontSize="21"/>
+            <Button HorizontalOptions="Center" Text="Õpilasesindus" Clicked="Handle_Clicked_4" FontSize="21"/>
+            <Button HorizontalOptions="Center" Text="Raamatukogu" Clicked="Handle_Clicked_5" FontSize="21"/>
+            <Button HorizontalOptions="Center" Text="Õpilaskodu" Clicked="Handle_Clicked_6" FontSize="21"/>
+            <Button HorizontalOptions="Center" Text="Söökla" Clicked="Handle_Clicked_7" FontSize="21"/>
+            <Button HorizontalOptions="Center" Text="Huviringid" Clicked="Handle_Clicked_8" FontSize="21"/>
+            <Button HorizontalOptions="Center" Text="Õppetoetused" Clicked="Handle_Clicked_9" FontSize="21"/>
+            <Button HorizontalOptions="Center" Text="Õpilaste sõidukulu hüvitamise kord" Clicked="Handle_Clicked_10" FontSize="21"/>
+            <Button HorizontalOptions="Center" Text="Avaldus sõidukulu hüvitise saamiseks " Clicked="Handle_Clicked_11" FontSize="21"/>
+            <Button HorizontalOptions="Center" Text="Õpilase sõidukulu hüvitise aruanne" Clicked="Handle_Clicked_12" FontSize="21"/>
+            <Button HorizontalOptions="Center" Text="Sisekorraeeskiri" Clicked="Handle_Clicked_13" FontSize="21"/>
+
+            
+            
+        </StackLayout>
+    </ScrollView>
+    
 </ContentPage>

@@ -7,11 +7,9 @@
 /Users/nopr0gress/Documents/GitHub/Too/TPT/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
 /Users/nopr0gress/Documents/GitHub/Too/TPT/iOS/bin/iPhoneSimulator/Debug/TPT.pdb
 /Users/nopr0gress/Documents/GitHub/Too/TPT/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
-/Users/nopr0gress/Documents/GitHub/Too/TPT/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll.mdb
 /Users/nopr0gress/Documents/GitHub/Too/TPT/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.xml
 /Users/nopr0gress/Documents/GitHub/Too/TPT/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
 /Users/nopr0gress/Documents/GitHub/Too/TPT/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
-/Users/nopr0gress/Documents/GitHub/Too/TPT/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/nopr0gress/Documents/GitHub/Too/TPT/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
 /Users/nopr0gress/Documents/GitHub/Too/TPT/iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/nopr0gress/Documents/GitHub/Too/TPT/iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll

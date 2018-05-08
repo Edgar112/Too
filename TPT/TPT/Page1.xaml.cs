@@ -10,7 +10,21 @@ namespace TPT
         public Page1()
         {
             InitializeComponent();
-            var image = new Image { Source = "map.jpg" };
+        }
+
+        void Handle_Clicked(object sender, System.EventArgs e)
+        {
+            Device.OpenUri(new Uri("mailto:info@tptlive.ee")); //ios dont work
+        }
+
+        void Handle_Clicked_1(object sender, System.EventArgs e)
+        {
+            Device.OpenUri(new Uri("https://www.tptlive.ee"));
+        }
+
+        void Handle_Clicked_2(object sender, System.EventArgs e)
+        {
+            Device.OpenUri(new Uri("https://www.facebook.com/polütehniku"));
         }
     }
 }

@@ -2,8 +2,8 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              x:Class="TPT.Page1"
-             Title="Page1"
-             BackgroundColor="Aqua" >
+             Title="Tutvustus"
+             BackgroundColor="White" >
     <ContentPage.Padding>
         <OnPlatform x:TypeArguments="Thickness">
             <On Platform="iOS" Value="0, 20, 0, 0" />
@@ -23,7 +23,7 @@
         <StackLayout>
             
             <AbsoluteLayout>
-                <BoxView AbsoluteLayout.LayoutBounds="0, 64, 340, 5" />
+               
                 <Label Text="Tallinna Polütehnikum" FontSize="36"
                        AbsoluteLayout.LayoutBounds="3, 25, AutoSize, AutoSize"/>
             </AbsoluteLayout>
@@ -52,13 +52,13 @@
 Üldtelefon: 610 3601.
             </Label>
             
-            <Button HorizontalOptions="Start" Text="E-post: info@tptlive.ee" FontSize="21"/>
-            <Button HorizontalOptions="Start" Text="Koduleht: www.tptlive.ee" FontSize="21"/>
-            <Button HorizontalOptions="Start" Text="Facebook: www.facebook.com/polütehnikum" FontSize="21"/>
+            <Button HorizontalOptions="Start" Text="E-post: info@tptlive.ee" Clicked="Handle_Clicked" FontSize="21"/>
+            <Button HorizontalOptions="Start" Text="Koduleht: www.tptlive.ee" Clicked="Handle_Clicked_1" FontSize="21"/>
+            <Button HorizontalOptions="Start" Text="Facebook: www.facebook.com/polütehnikum" Clicked="Handle_Clicked_2" FontSize="21"/>
             
             <BoxView HeightRequest="3" />
 
-           
+            <Image Source="map.png" />
             
         </StackLayout>
     </ScrollView>
