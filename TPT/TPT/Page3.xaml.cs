@@ -22,12 +22,12 @@ namespace TPT
             }
         }
 
-        private void forwardClicked(object sender, EventArgs e)
-        {
-            if (Browser.CanGoForward)
-            {
-                Browser.GoForward();
-            }
-        }
+		private void forwardClicked(object sender, EventArgs e)
+		{
+			if (Browser.CanGoForward)
+			{
+				Browser.GoForward();
+			}
+		}
     }
 }
