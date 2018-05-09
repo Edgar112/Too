@@ -2,8 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              x:Class="TPT.Page1"
-             Title="Tutvustus"
-             BackgroundColor="White" >
+             Title="Tutvustus" BackgroundColor="White">
     <ContentPage.Padding>
         <OnPlatform x:TypeArguments="Thickness">
             <On Platform="iOS" Value="0, 20, 0, 0" />
@@ -23,9 +22,9 @@
         <StackLayout>
             
             <AbsoluteLayout>
-               
-                <Label Text="Tallinna Polütehnikum" FontSize="36"
-                       AbsoluteLayout.LayoutBounds="3, 25, AutoSize, AutoSize"/>
+
+                <Label Text="Tallinna Polütehnikum" TextColor="#143058" FontSize="36"
+                        AbsoluteLayout.LayoutBounds="3, 35, AutoSize, AutoSize"/>
             </AbsoluteLayout>
             
             <Label></Label>
@@ -51,10 +50,10 @@
             Aadress: Pärnu mnt. 57, Tallinn 10135.
 Üldtelefon: 610 3601.
             </Label>
-            
-            <Button HorizontalOptions="Start" Text="E-post: info@tptlive.ee" Clicked="Handle_Clicked" FontSize="21"/>
-            <Button HorizontalOptions="Start" Text="Koduleht: www.tptlive.ee" Clicked="Handle_Clicked_1" FontSize="21"/>
-            <Button HorizontalOptions="Start" Text="Facebook: www.facebook.com/polütehnikum" Clicked="Handle_Clicked_2" FontSize="21"/>
+
+            <Button HorizontalOptions="Start" Text="E-post: info@tptlive.ee" Clicked="Handle_Clicked" FontSize="21" BackgroundColor="White" TextColor="#143058"/>
+            <Button HorizontalOptions="Start" Text="Koduleht: www.tptlive.ee" Clicked="Handle_Clicked_1" FontSize="21" BackgroundColor="White" TextColor="#143058"/>
+            <Button HorizontalOptions="Start" Text="Facebook: www.facebook.com/polütehnikum" Clicked="Handle_Clicked_2" FontSize="21" BackgroundColor="White" TextColor="#143058"/>
             
             <BoxView HeightRequest="3" />
 

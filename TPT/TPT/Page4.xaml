@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              x:Class="TPT.Page4"
-             Title="Uudised">
+             Title="Uudised" BackgroundColor="White">
     <Label Text="Page4" VerticalOptions="Center" HorizontalOptions="Center" />
     <ContentPage.Padding>
         <OnPlatform x:TypeArguments="Thickness">
@@ -10,6 +10,18 @@
         </OnPlatform>
     </ContentPage.Padding>
 
-    
+    <ScrollView Margin="15">
+        <StackLayout>
+
+            <AbsoluteLayout>
+                <Label Text="Tallinna Polütehnikum" TextColor="#143058" FontSize="36"
+                        AbsoluteLayout.LayoutBounds="3, 35, AutoSize, AutoSize"/>
+            </AbsoluteLayout>
+
+            <Label></Label>
+            <Label></Label>
+
+       </StackLayout>
+    </ScrollView>
 
 </ContentPage>

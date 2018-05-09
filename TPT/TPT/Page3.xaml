@@ -2,19 +2,19 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              x:Class="TPT.Page3"
-             Title="Tunniplaan">
+             Title="Tunniplaan" BackgroundColor="#20638E">
     <ContentPage.Padding>
         <OnPlatform x:TypeArguments="Thickness">
             <On Platform="iOS" Value="0, 20, 0, 0" />
         </OnPlatform>
     </ContentPage.Padding>
 
-<StackLayout>
+    <StackLayout>
             <StackLayout Orientation="Horizontal" Padding="10,10">
-                <Button Text="Tagasi" HorizontalOptions="StartAndExpand" Clicked="backClicked" />
-                <Button Text="Edasi" HorizontalOptions="End" Clicked="forwardClicked" />
+            <Button Text="Tagasi" HorizontalOptions="StartAndExpand" Clicked="backClicked" BackgroundColor="#20638E" />
+            <Button Text="Edasi" HorizontalOptions="End" Clicked="forwardClicked" BackgroundColor="#20638E" />
             </StackLayout>
             <WebView x:Name="Browser" WidthRequest="1000" HeightRequest="1000" />
-</StackLayout>
+    </StackLayout>
 
 </ContentPage>
