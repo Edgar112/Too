@@ -79,6 +79,15 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
+      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.Messaging.Abstractions">
+      <HintPath>..\packages\Xam.Plugins.Messaging.5.2.0\lib\netstandard1.0\Plugin.Messaging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.Messaging">
+      <HintPath>..\packages\Xam.Plugins.Messaging.5.2.0\lib\netstandard1.0\Plugin.Messaging.dll</HintPath>
+    </Reference>
     <Reference Include="Xamarin.Forms.Core.Design">
       <HintPath>..\packages\Xamarin.Forms.3.0.0.446417\lib\netstandard1.0\Design\Xamarin.Forms.Core.Design.dll</HintPath>
     </Reference>
@@ -97,17 +106,14 @@
     <Reference Include="Xamarin.Forms.Maps.Design">
       <HintPath>..\packages\Xamarin.Forms.Maps.3.0.0.446417\lib\netstandard1.0\Xamarin.Forms.Maps.Design.dll</HintPath>
     </Reference>
+    <Reference Include="Xamarin.Forms.Maps.Design">
+      <HintPath>..\packages\Xamarin.Forms.Maps.3.0.0.446417\lib\netstandard1.0\Xamarin.Forms.Maps.Design.dll</HintPath>
+    </Reference>
     <Reference Include="Xamarin.Forms.Maps">
       <HintPath>..\packages\Xamarin.Forms.Maps.3.0.0.446417\lib\netstandard1.0\Xamarin.Forms.Maps.dll</HintPath>
     </Reference>
-    <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
-      <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
-    </Reference>
-    <Reference Include="Plugin.Messaging.Abstractions">
-      <HintPath>..\packages\Xam.Plugins.Messaging.5.2.0\lib\netstandard1.0\Plugin.Messaging.Abstractions.dll</HintPath>
-    </Reference>
-    <Reference Include="Plugin.Messaging">
-      <HintPath>..\packages\Xam.Plugins.Messaging.5.2.0\lib\netstandard1.0\Plugin.Messaging.dll</HintPath>
+    <Reference Include="Fizzler">
+      <HintPath>..\packages\Fizzler.1.2.0\lib\netstandard1.0\Fizzler.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
