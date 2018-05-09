@@ -51,7 +51,6 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\packages\Xamarin.Forms.2.5.0.121
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\packages\Xamarin.Forms.2.5.0.121934\lib\MonoAndroid10\Xamarin.Forms.Core.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\packages\Xamarin.Forms.2.5.0.121934\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\packages\Xamarin.Forms.2.5.0.121934\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\TPT.Droid.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\packages\Xamarin.Forms.3.0.0.446417\lib\MonoAndroid10\FormsViewGroup.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\TPT.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\packages\Xamarin.Forms.3.0.0.446417\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll

@@ -1,4 +1,6 @@
+Fizzler
 FormsViewGroup
+HtmlAgilityPack
 System.Runtime
 TPT
 Xamarin.Android.Support.Animated.Vector.Drawable
@@ -21,4 +23,3 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
-System.Diagnostics.Tools
