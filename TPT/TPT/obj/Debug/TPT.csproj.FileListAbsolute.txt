@@ -23,30 +23,34 @@
 /Users/nopr0gress/Documents/GitHub/Too/TPT/TPT/obj/Debug/TPT.csproj.CoreCompileInputs.cache
 /Users/nopr0gress/Documents/GitHub/Too/TPT/TPT/obj/Debug/TPT.dll
 /Users/nopr0gress/Documents/GitHub/Too/TPT/TPT/obj/Debug/TPT.pdb
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\TPT.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\TPT.pdb
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Fizzler.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Plugin.Messaging.Abstractions.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Plugin.Messaging.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Xamarin.Forms.Core.Design.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Xamarin.Forms.Maps.Design.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Xamarin.Forms.Maps.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Xamarin.Forms.Platform.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Xamarin.Forms.Xaml.Design.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Plugin.Messaging.Abstractions.pdb
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Plugin.Messaging.Abstractions.xml
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Plugin.Messaging.pdb
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Plugin.Messaging.xml
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Xamarin.Forms.Core.pdb
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Xamarin.Forms.Xaml.pdb
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\Xamarin.Forms.Maps.xml
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\obj\Debug\TPT.csprojResolveAssemblyReference.cache
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\obj\Debug\TPT.csproj.CoreCompileInputs.cache
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\obj\Debug\TPT.csproj.CopyComplete
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\obj\Debug\TPT.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\obj\Debug\TPT.pdb
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/TPT.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/TPT.pdb
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Fizzler.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Plugin.Messaging.Abstractions.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Plugin.Messaging.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Core.Design.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Maps.Design.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Maps.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Xaml.Design.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Plugin.Messaging.Abstractions.pdb
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Plugin.Messaging.Abstractions.xml
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Plugin.Messaging.pdb
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Plugin.Messaging.xml
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/Xamarin.Forms.Maps.xml
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/obj/Debug/TPT.csprojResolveAssemblyReference.cache
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/obj/Debug/TPT.csproj.CoreCompileInputs.cache
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/obj/Debug/TPT.csproj.CopyComplete
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/obj/Debug/TPT.dll
+C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/obj/Debug/TPT.pdb
+/Users/nopr0gress/Documents/GitHub/Too/TPT/TPT/bin/Debug/HtmlAgilityPack.dll
+/Users/nopr0gress/Documents/GitHub/Too/TPT/TPT/bin/Debug/HtmlAgilityPack.pdb
+/Users/nopr0gress/Documents/GitHub/Too/TPT/TPT/bin/Debug/HtmlAgilityPack.xml
+/Users/nopr0gress/Documents/GitHub/Too/TPT/TPT/obj/Debug/TPT.csprojResolveAssemblyReference.cache

@@ -3,12 +3,12 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              x:Class="TPT.Page5"
              Title="Tundide ajad" BackgroundColor="White">
-    <Label Text="Page5" VerticalOptions="Center" HorizontalOptions="Center" />
     <ContentPage.Padding>
         <OnPlatform x:TypeArguments="Thickness">
             <On Platform="iOS" Value="0, 20, 0, 0" />
         </OnPlatform>
     </ContentPage.Padding>
+    
         <ScrollView Margin="15">
         <StackLayout>
             <AbsoluteLayout>
@@ -22,7 +22,7 @@
             <Grid>
 
                 <Grid.RowDefinitions>
-                    <RowDefinition Height="60"/>
+                    <RowDefinition Height="30"/>
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
                 <Grid.ColumnDefinitions>
@@ -50,7 +50,17 @@
                  <Label  Grid.Row="8" Text="8." HorizontalOptions="Start"/>
                  <Label  Grid.Row="9" Text="16:10 - 16:55" HorizontalOptions="Center"/>
                  <Label  Grid.Row="9" Text="9." HorizontalOptions="Start"/>
+                 <Label  Grid.Row="10" Text="17:05 - 17:50" HorizontalOptions="Center"/>
+                 <Label  Grid.Row="10" Text="10." HorizontalOptions="Start"/>
 
+                 <Label  Grid.Row="11" Text="18:00 - 18:45" HorizontalOptions="Center"/>
+                 <Label  Grid.Row="11" Text="11." HorizontalOptions="Start"/>
+                 <Label  Grid.Row="12" Text="18:55 - 19:40" HorizontalOptions="Center"/>
+                 <Label  Grid.Row="12" Text="12." HorizontalOptions="Start"/>
+                 <Label  Grid.Row="13" Text="19:50 - 20:35" HorizontalOptions="Center"/>
+                 <Label  Grid.Row="13" Text="13." HorizontalOptions="Start"/>
+                 <Label  Grid.Row="14" Text="20:45 - 21:30" HorizontalOptions="Center"/>
+                 <Label  Grid.Row="14" Text="14." HorizontalOptions="Start"/>
                 
             </Grid>
 

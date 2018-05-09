@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{041CA933-39CA-4F8F-8C63-9F3430146590}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TPT/Page1.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TPT/Page5.xaml">
     <Files>
       <File FileName="TPT/Page4.xaml.cs" Line="14" Column="1" />
-      <File FileName="TPT/Page1.xaml" Line="66" Column="1" />
+      <File FileName="TPT/Page1.xaml" Line="27" Column="82" />
+      <File FileName="TPT/Page4.xaml" Line="5" Column="28" />
+      <File FileName="TPT/Page3.xaml" Line="21" Column="1" />
+      <File FileName="TPT/Page5.xaml" Line="16" Column="82" />
+      <File FileName="TPT/Page2.xaml" Line="42" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
