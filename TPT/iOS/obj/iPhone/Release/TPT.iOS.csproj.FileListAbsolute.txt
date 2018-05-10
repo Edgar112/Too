@@ -2,6 +2,12 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\TPT.iOS.e
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\TPT.iOS.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\Fizzler.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\HtmlAgilityPack.dll
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\Microsoft.AppCenter.Analytics.dll
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\Microsoft.AppCenter.Crashes.dll
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\Microsoft.AppCenter.Crashes.iOS.Bindings.dll
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\Microsoft.AppCenter.dll
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\Microsoft.AppCenter.iOS.Bindings.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\TPT.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
