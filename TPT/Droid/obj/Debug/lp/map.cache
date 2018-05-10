@@ -1,6 +1,10 @@
-Fizzler
 FormsViewGroup
-HtmlAgilityPack
+Microsoft.AppCenter.Analytics.Android.Bindings
+Microsoft.AppCenter.Analytics
+Microsoft.AppCenter.Android.Bindings
+Microsoft.AppCenter.Crashes.Android.Bindings
+Microsoft.AppCenter.Crashes
+Microsoft.AppCenter
 System.Runtime
 TPT
 Xamarin.Android.Support.Animated.Vector.Drawable
@@ -23,3 +27,4 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
+System.Diagnostics.Tools
