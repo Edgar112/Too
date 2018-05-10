@@ -30,14 +30,20 @@
     <ManifestDocument>obj\Release\lp\25\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\25\jl\manifest\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\26\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\lp\28\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\lp\28\jl\manifest\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\3\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\3\jl\manifest\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\lp\30\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\lp\30\jl\manifest\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\5\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\5\jl\manifest\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\6\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\6\jl\manifest\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\7\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\lp\7\jl\manifest\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\8\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\lp\8\jl\manifest\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\9\jl\AndroidManifest.xml</ManifestDocument>
   </ManifestDocuments>
   <NativeLibraries />
@@ -61,7 +67,9 @@
     <Jar>obj\Release\lp\24\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\lp\25\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\lp\26\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\lp\28\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\lp\3\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\lp\30\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\lp\5\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\lp\6\jl\support-annotations.jar</Jar>
     <Jar>obj\Release\lp\6\jl\bin\classes.jar</Jar>

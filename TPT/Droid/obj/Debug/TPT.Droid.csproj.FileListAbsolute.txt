@@ -100,3 +100,4 @@ C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/Droid/obj/Debug/linksrc/FormsVie
 C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/Droid/obj/Debug/linksrc/TPT.dll.mdb
 C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/Droid/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.dll.mdb
 /Users/nopr0gress/Documents/GitHub/Too/TPT/Droid/obj/Debug/TPT.Droid.csprojResolveAssemblyReference.cache
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\TPT.Droid.csprojResolveAssemblyReference.cache
