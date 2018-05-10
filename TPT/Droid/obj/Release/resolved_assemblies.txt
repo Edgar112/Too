@@ -3,12 +3,6 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\FormsViewGroup.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\HtmlAgilityPack.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\Java.Interop.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\Microsoft.AppCenter.Analytics.Android.Bindings.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\Microsoft.AppCenter.Analytics.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\Microsoft.AppCenter.Android.Bindings.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\Microsoft.AppCenter.Crashes.Android.Bindings.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\Microsoft.AppCenter.Crashes.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\Microsoft.AppCenter.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\Mono.Android.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\mscorlib.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\System.Core.dll

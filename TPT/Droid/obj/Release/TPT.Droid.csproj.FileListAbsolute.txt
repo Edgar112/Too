@@ -5,12 +5,6 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\com.companynam
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\Fizzler.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\FormsViewGroup.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\HtmlAgilityPack.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\Microsoft.AppCenter.Analytics.Android.Bindings.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\Microsoft.AppCenter.Analytics.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\Microsoft.AppCenter.Android.Bindings.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\Microsoft.AppCenter.Crashes.Android.Bindings.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\Microsoft.AppCenter.Crashes.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\Microsoft.AppCenter.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\TPT.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\Xamarin.Android.Support.Annotations.dll
