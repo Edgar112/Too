@@ -6,7 +6,7 @@ C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/packages/Xamarin.Forms.3.0.0.446
 C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/TPT/bin/Debug/TPT.dll
 C:/Users/JAPAN SO NEAR/Documents/GitHub/Too/TPT/packages/Xamarin.Forms.3.0.0.446417/lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll
 /Users/nopr0gress/Documents/GitHub/Too/TPT/Droid/obj/Debug/TPT.Droid.csprojResolveAssemblyReference.cache
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\TPT.Droid.csprojResolveAssemblyReference.cache
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\TPT.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\TPT.Droid.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\TPT.Droid.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\com.companyname.TPT.apk
@@ -48,6 +48,7 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\Xamarin.Forms.Pl
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\TPT.Droid.csprojResolveAssemblyReference.cache
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\TPT.Droid.csproj.CoreCompileInputs.cache
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\TPT.Droid.csproj.CopyComplete
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\TPT.Droid.dll
@@ -63,9 +64,7 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\res\drawable-xxh
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\res\drawable\map.png
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\R.cs.flag
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\uploadflags.txt
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\HtmlAgilityPack.pdb
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\Fizzler.dll
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\HtmlAgilityPack.dll
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\TPT.Droid.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\TPT.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\Mono.Android.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\mscorlib.pdb
@@ -73,8 +72,6 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\System.Core.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\System.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\System.Net.Http.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\System.Xml.pdb
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\Xamarin.Forms.Core.pdb
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\System.Runtime.Serialization.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\System.ServiceModel.Internals.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\Mono.Security.pdb
@@ -107,9 +104,8 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\linksrc\System.I
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\linksrc\System.Web.Services.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\linksrc\System.Xml.Linq.pdb
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\TPT.dll.mdb
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\linksrc\TPT.Droid.dll.mdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\linksrc\TPT.dll.mdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
