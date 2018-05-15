@@ -18,7 +18,7 @@ namespace TPT.iOS
 
             LoadApplication(new App());
 
-            AppCenter.Start("{Your App Secret}", typeof(Analytics), typeof(Crashes));
+            AppCenter.Start("21d79627-f736-4a1c-b580-69e70b1b7282", typeof(Analytics), typeof(Crashes));
 
             return base.FinishedLaunching(app, options);
         }

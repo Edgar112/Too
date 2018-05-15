@@ -25,7 +25,7 @@ namespace TPT.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
 
-            AppCenter.Start("{Your App Secret}", typeof(Analytics), typeof(Crashes));
+            AppCenter.Start("ae7cd086-7555-40f2-b0f4-6b0c28000d0f", typeof(Analytics), typeof(Crashes));
 
             LoadApplication(new App());
         }

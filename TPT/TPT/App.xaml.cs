@@ -16,7 +16,7 @@ namespace TPT
 
         protected override void OnStart()
         {
-            AppCenter.Start("ios={Your App Secret};android={Your App Secret}", typeof(Analytics), typeof(Crashes));
+            AppCenter.Start("ios=21d79627-f736-4a1c-b580-69e70b1b7282;android=ae7cd086-7555-40f2-b0f4-6b0c28000d0f", typeof(Analytics), typeof(Crashes));
         }
 
         protected override void OnSleep()
