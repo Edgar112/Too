@@ -1,4 +1,3 @@
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\obj\Release\TPT.csproj.CoreCompileInputs.cache
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Release\TPT.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Release\Microsoft.AppCenter.Analytics.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Release\Microsoft.AppCenter.Crashes.dll
@@ -20,5 +19,6 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Release\Xamarin.Forms.Co
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Release\Xamarin.Forms.Xaml.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Release\Xamarin.Forms.Xaml.xml
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\obj\Release\TPT.csprojResolveAssemblyReference.cache
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\obj\Release\TPT.csproj.CoreCompileInputs.cache
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\obj\Release\TPT.csproj.CopyComplete
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\obj\Release\TPT.dll

@@ -52,6 +52,7 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\res\drawable-h
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\res\drawable-xhdpi\icon.png
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\res\drawable-xxhdpi\icon.png
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\res\drawable\map.png
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\res\drawable\polyphoto.jpg
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\R.cs.flag
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\uploadflags.txt
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\Mono.Android.pdb
@@ -110,7 +111,6 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\System.Xml.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\res\drawable\polyphoto.jpg
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Release\TPT.Droid.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\linksrc\TPT.Droid.dll.mdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Release\linksrc\FormsViewGroup.dll.mdb
