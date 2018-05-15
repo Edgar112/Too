@@ -10,7 +10,7 @@ namespace TPT
         {
             InitializeComponent();
 
-           // AppCenter.Start("7497ed38-bfec-4ac8-aa4c-42c143ae0c71", typeof(Analytics), typeof(Crashes));
+          
         }
     }
 }
