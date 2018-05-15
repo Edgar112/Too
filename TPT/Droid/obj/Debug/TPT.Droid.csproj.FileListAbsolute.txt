@@ -131,6 +131,7 @@ C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\android\assets\S
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\android\assets\System.Xml.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\obj\Debug\res\drawable\polyphoto.jpg
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\TPT.Droid.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\TPT\bin\Debug\TPT.dll
 C:\Users\JAPAN SO NEAR\Documents\GitHub\Too\TPT\Droid\bin\Debug\TPT.dll.mdb
