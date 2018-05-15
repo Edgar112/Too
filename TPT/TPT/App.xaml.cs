@@ -1,4 +1,7 @@
 ﻿using Xamarin.Forms;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 
 namespace TPT
 {
@@ -13,7 +16,7 @@ namespace TPT
 
         protected override void OnStart()
         {
-            // Handle when your app starts
+            AppCenter.Start("ios={Your App Secret};android={Your App Secret}", typeof(Analytics), typeof(Crashes));
         }
 
         protected override void OnSleep()

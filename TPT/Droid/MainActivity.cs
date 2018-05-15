@@ -7,6 +7,9 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
 
 namespace TPT.Droid
 {
@@ -21,6 +24,8 @@ namespace TPT.Droid
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
+
+            AppCenter.Start("{Your App Secret}", typeof(Analytics), typeof(Crashes));
 
             LoadApplication(new App());
         }
